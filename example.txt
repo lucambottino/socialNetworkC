@@ -1,0 +1,81 @@
+User amount: 8
+User <Turing> data:
+- Gender: mm
+- Age: 99
+- Is single?: yes
+- Favorite tags:
+-- Color: vermelho
+-- Book: criptografia
+-- Movie: enigma
+-- Music genre: rock
+User <Stallman> data:
+- Gender: mf
+- Age: 66
+- Is single?: yes
+- Favorite tags:
+-- Color: verde
+-- Book: GNU
+-- Movie: enigma
+-- Music genre: rock
+User <Dijkstra> data:
+- Gender: mf
+- Age: 89
+- Is single?: no
+- Favorite tags:
+-- Color: azul
+-- Book: grafos
+-- Movie: avengers
+-- Music genre: pop
+User <Knuth> data:
+- Gender: mf
+- Age: 81
+- Is single?: no
+- Favorite tags:
+-- Color: vermelho
+-- Book: arq
+-- Movie: enigma
+-- Music genre: rock
+User <Linus> data:
+- Gender: mf
+- Age: 49
+- Is single?: no
+- Favorite tags:
+-- Color: verde
+-- Book: GNU
+-- Movie: enigma
+-- Music genre: rock
+User <Lovelace> data:
+- Gender: fm
+- Age: 203
+- Is single?: yes
+- Favorite tags:
+-- Color: azul
+-- Book: grafos
+-- Movie: enigma
+-- Music genre: pop
+User <Grace> data:
+- Gender: fm
+- Age: 122
+- Is single?: no
+- Favorite tags:
+-- Color: vermelho
+-- Book: arq
+-- Movie: avengers
+-- Music genre: pop
+User <Ritchie> data:
+- Gender: mb
+- Age: 77
+- Is single?: yes
+- Favorite tags:
+-- Color: verde
+-- Book: GNU
+-- Movie: avengers
+-- Music genre: pop
+1 0 0 0 0 0 0 0
+0 1 1 0 1 0 0 0
+0 1 1 0 1 0 0 0
+0 0 0 1 1 1 0 0
+0 1 1 1 1 1 1 1
+0 0 0 0 1 1 1 1
+0 0 0 0 0 1 1 1
+0 0 0 0 0 1 1 1
